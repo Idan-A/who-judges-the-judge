@@ -1,0 +1,5 @@
+length_gap,source,share,n
+1.2-2x longer,gpt4,0.732,358
+1.2-2x longer,human,0.669,605
+>2x longer,gpt4,0.817,698
+>2x longer,human,0.765,1233
