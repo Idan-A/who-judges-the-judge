@@ -1,9 +1,0 @@
-category,gpt4_vs_expert,n_gpt4_pairs,expert_vs_expert,n_expert_pairs,gap
-writing,0.74,292,0.709,179,0.03
-roleplay,0.803,356,0.752,266,0.051
-coding,0.856,216,0.924,145,-0.068
-humanities,0.863,336,0.802,253,0.061
-stem,0.875,327,0.807,228,0.068
-extraction,0.919,272,0.844,173,0.075
-reasoning,0.93,158,0.903,113,0.028
-math,0.948,172,0.964,193,-0.016
