@@ -1,0 +1,8 @@
+# data downloaded by the notebook
+data/
+
+# personal study notes, not for publication
+SPIEGAZIONE.md
+
+# Jupyter
+.ipynb_checkpoints/
